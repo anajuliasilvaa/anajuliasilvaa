@@ -1,7 +1,7 @@
 ![background](https://i.imgur.com/RC8Eeb3.png )
 
 # Meu nome é  ✨ Júlia ✨ 
-🪐 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por programação, IA, robótica e astronomia. Desenvolvo projetos que unem hardware e software e busco transformar ideias em soluções práticas e inovadoras.
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por programação, IA, robótica e astronomia. Desenvolvo projetos que unem hardware e software e busco transformar ideias em soluções práticas e inovadoras.
 
 
 ## 🌐 Socials:
